@@ -27,7 +27,7 @@ parcel build
 ### Author
 
 Thinkdevs
-[Thinkdevs Code](http://www.thinkdevs.com)
+[Thinkdevs Code](http://thinkdevs.com)
 
 ### Version
 
